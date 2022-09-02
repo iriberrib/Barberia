@@ -1,0 +1,54 @@
+/* 
+    ACA DEBAJO ESTAN LOS SELECTORES
+*/
+
+#banner{
+    width: 100%; /* Usamos solo WIDTH (ancho) para que no se deforme la imagen */
+}
+
+.main{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.centertitle{
+    text-align: center;
+}
+
+.maintitle {
+    padding-left: 30px;
+}
+
+p{ 
+    text-align: center;
+}
+/* La parte en negrita dentro de la etiqueta EM */
+em strong{
+    color: red;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+/* Acomodamos la imagen al texto */
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgdiferenciales{
+    width: 50%;
+}
+
